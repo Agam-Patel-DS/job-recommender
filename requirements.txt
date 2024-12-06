@@ -45,3 +45,5 @@ kaggle==1.5.15
 
 # Optional visualization tools
 plotly==5.15.0
+
+-e .
