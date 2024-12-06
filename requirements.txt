@@ -42,6 +42,7 @@ gunicorn==21.2.0
 
 # For Kaggle dataset ingestion
 kaggle==1.5.15
+kagglehub
 
 # Optional visualization tools
 plotly==5.15.0
