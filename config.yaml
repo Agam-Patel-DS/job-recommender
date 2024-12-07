@@ -1,3 +1,7 @@
 data_ingestion:
   kaggle_url: asaniczka/1-3m-linkedin-jobs-and-skills-2024
   data_dir: data/raw
+preprocess_data:
+  raw_dir: data/raw
+  prprocessed_dir: data/processed
+  model_dir: models
